@@ -1,0 +1,19 @@
+/* Google Font */
+*{
+	font-family: 'Nanum Gothic', sans-serif;
+}
+
+#test1 {
+	font-family: 'DynaPuff', cursive;
+}
+
+#test2 {
+	font-family: 'Open sans', monospace;
+}
+
+#map {display: none;}
+
+#gmap_canvas {
+	width: 100%; 
+	height: 75vh;
+}
